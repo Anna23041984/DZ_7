@@ -1,7 +1,4 @@
-
-
 function oneNumber(){
-    let result
 
     for (let i=0; i<10; i++){
         let entryField = prompt('Enter a number > 100');
@@ -15,5 +12,4 @@ function oneNumber(){
     }
   
 }
-createNumber()
-
+oneNumber()
